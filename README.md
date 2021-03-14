@@ -4,6 +4,7 @@ An application that allows the user to add contacts, record close contacts betwe
 Code architecture follows MCV paradigm and implements the serializable interface.
 
 Features:
+
  ◾ Sort find results by Name/Date
 
 Example of recording a close contact between 2 contacts.
