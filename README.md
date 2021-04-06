@@ -1,5 +1,5 @@
 # Covid-Contact-App
-An application that allows the user to add contacts, record close contacts between those contacts and find close contacts.
+An application that allows the user to add contacts, record close contacts between those contacts and find close contacts. This project reads from files and parses that data into an array. I will remake this project with data persisting in a database at a later date.
 
 Code architecture follows MCV paradigm and implements the serializable interface.
 
