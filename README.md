@@ -7,7 +7,7 @@ Features:
 
  ◾ Sort find results by Name/Date
 
-Example of recording a close contact between 2 contacts.
+Example of recording a close contact between 2 contacts. Will be updated to persist objects in a database in the future.
 
 ![](readme_images/java_4F9jwjWCax.png)
 
